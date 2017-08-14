@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43921080014",
+    "firebase_url": "https://imafirebaseproject-15e46.firebaseio.com",
+    "project_id": "imafirebaseproject-15e46",
+    "storage_bucket": "imafirebaseproject-15e46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43921080014:android:772d581d5d5de9ed",
+        "android_client_info": {
+          "package_name": "com.ima.bhiwandi.ima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43921080014-3759scop0vem9c0vu3veskhr6vf99qpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ima.bhiwandi.ima",
+            "certificate_hash": "4dc7fcf322865acae3f5301d77399f5a78a9bfa0"
+          }
+        },
+        {
+          "client_id": "43921080014-64240j4svlv142f4b0a34pup994ip90o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdZ6fXqB6syBg2p1G62fj4a1ep-2Fqv18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43921080014-64240j4svlv142f4b0a34pup994ip90o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
