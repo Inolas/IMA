@@ -1,2 +1,4 @@
 # AlertNotifier
-An android app to generate alert notification using Firebase Phone Authentication and Messaging services
+# An android app in progress
+# Features:
+# generate an alert/notification on all devices that has the app installed on it.
